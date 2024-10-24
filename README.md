@@ -17,7 +17,7 @@ A major portion of the website was built using simple HMTL, CSS, and JavaScript.
 
 To run the site on your local computer, simply open the index page in your preferred browser.
 
-To view the live verison, [click here](link).
+To view the live verison, [click here](voltfleet.netlify.com).
 
 ## Contributing
 
