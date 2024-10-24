@@ -8,7 +8,7 @@ For the design of the VoltFleet marketing page, I utilised a Realism Webs Design
 
 ## Components
 
-A major portion of the website was built using simple HMTL, CSS, and JavaScript. External libraries and CDN used include; 
+A major portion of the website was built using simple HMTL, CSS, and JavaScript. External libraries and CDN used include;
 
 * [TailwindCSS](https://tailwindcss.com/docs/installation)
 * [Slick](https://kenwheeler.github.io/slick/)
